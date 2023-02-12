@@ -18,3 +18,13 @@ We will use the ACS PUMS files, particularly a fraction of the ACS Income datase
 3. Train a logistic regression classifier and evaluate the fairness of this classifier
 4. Train other logistic regression classifiers with pre-processing interventions and re-evaluate fairness
 5. Compare the results obtained in 3 and 4
+
+## Project 3 (Deeply Mitigating Bias Using Fairlearn) Description
+We will continue working on the same data and ML model, this time using Fairlearn to perform bias-mitigating interventions in three different way.
+
+## Project 3 Outline
+1. Load the data as we did in Project 2
+2. Use preprocessing algorithms to mitigate bias
+3. Use reduction algorithms to mitigate bias
+4. Use postprocessing algorithms to mitigate bias
+5. Compare all of our efforts
